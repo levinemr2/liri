@@ -1,0 +1,28 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levinemr2/liri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levinemr2/liri/issues"
+  },
+  "homepage": "https://github.com/levinemr2/liri#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
